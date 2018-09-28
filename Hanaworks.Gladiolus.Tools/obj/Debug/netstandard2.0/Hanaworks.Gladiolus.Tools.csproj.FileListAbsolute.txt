@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Hanaworks.Gladiolus\Hanaworks.Gladiolus.Tools\bin\Debug\netstandard2.0\Hanaworks.Gladiolus.Tools.deps.json
+C:\Users\Administrator\source\repos\Hanaworks.Gladiolus\Hanaworks.Gladiolus.Tools\bin\Debug\netstandard2.0\Hanaworks.Gladiolus.Tools.dll
+C:\Users\Administrator\source\repos\Hanaworks.Gladiolus\Hanaworks.Gladiolus.Tools\bin\Debug\netstandard2.0\Hanaworks.Gladiolus.Tools.pdb
+C:\Users\Administrator\source\repos\Hanaworks.Gladiolus\Hanaworks.Gladiolus.Tools\obj\Debug\netstandard2.0\Hanaworks.Gladiolus.Tools.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Hanaworks.Gladiolus\Hanaworks.Gladiolus.Tools\obj\Debug\netstandard2.0\Hanaworks.Gladiolus.Tools.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Hanaworks.Gladiolus\Hanaworks.Gladiolus.Tools\obj\Debug\netstandard2.0\Hanaworks.Gladiolus.Tools.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Hanaworks.Gladiolus\Hanaworks.Gladiolus.Tools\obj\Debug\netstandard2.0\Hanaworks.Gladiolus.Tools.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Hanaworks.Gladiolus\Hanaworks.Gladiolus.Tools\obj\Debug\netstandard2.0\Hanaworks.Gladiolus.Tools.dll
+C:\Users\Administrator\source\repos\Hanaworks.Gladiolus\Hanaworks.Gladiolus.Tools\obj\Debug\netstandard2.0\Hanaworks.Gladiolus.Tools.pdb
